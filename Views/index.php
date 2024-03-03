@@ -48,11 +48,11 @@
                                             <a class="small" href="password.html">Perdiste la contraseña?</a>
                                             <button type="button" class="btn btn-success" onclick="frmLogin(event)">Iniciar Sesión</button>
                                             
-                                        </div 
+                                        </div>
                                     </form>
                                 </div>
                                 <div class="card-footer text-center">
-                                        <div class="small"><a href="refister.html">Registrarse</a><div>
+                                
                                 </div>
 
                             </div>
@@ -82,7 +82,7 @@
     <script>
         const base_url = "<?php echo base_url; ?>";
     </script>
-    <script src="<?php echo base_url; ?>Assets/js/funciones.js"></script>
+    <script src="<?php echo base_url; ?>Assets/js/login.js"></script>
 </body>
 
 </html>
